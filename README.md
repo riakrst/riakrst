@@ -17,6 +17,7 @@
 - 🚀 Currently seeking opportunities in **Technology and IT-related roles**, 
   with a strong passion and background in **Machine Learning / Artificial Intelligence**.
 
+---
 ### 📫 Connect with Me
 <p align="left">
   <a href="mailto:riakristibasri@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
@@ -39,6 +40,7 @@
 ---
 -->
 
+---
 ### 📊 GitHub Statistics
 <div align="center">
   <a href="https://github.com/riakrst">
@@ -47,4 +49,3 @@
   </a>
 </div>
 
----
