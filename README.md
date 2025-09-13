@@ -22,7 +22,7 @@
 <p align="left">
   <a href="mailto:riakristibasri@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/riakristi/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/riakrst"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/></a>
+<!--   <a href="https://instagram.com/riakrst"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/></a> -->
 </p>
 
 ---
