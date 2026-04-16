@@ -13,7 +13,7 @@
   - Bangkit Academy 2024 (Machine Learning Cohort)  
   - RevoU x AWS Cendekiawan (Cloud & Gen AI ML Cohort)  
   - Laskar AI 2025 (AI Engineer Cohort)  
-- 💡 Interested in **AI/ML, LLMs, Data Science**, and recently exploring **Cybersecurity**  
+- 💡 Interested in **ML, Data Science**, and recently exploring **Gen AI/LLMs**  
 - 🚀 Currently seeking opportunities in **Technology and IT-related roles**, 
   with a strong passion and background in **Machine Learning / Artificial Intelligence**.
 
